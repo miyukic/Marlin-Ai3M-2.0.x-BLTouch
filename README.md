@@ -1,3 +1,13 @@
+# Miyuki用の Marlinカスタムファームウェア
+## 私の３Dプリンターの環境
+- Anucubic Mega S  
+- The Anycubic 1.0 display  
+- Trigorilla 0.0.3<br>
+- 3D Touch 取り付け済み
+（https://ohkin.mydns.jp/archives/848）
+
+[Aycubic製の３Dプリンターの種類の参考URL](https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/Beginner's-Guide-(English))
+
 # Anycubic i3 Mega / Mega-S Marlin 2.0.x by davidramiro
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MFT8QMP5ZRCE&source=url)  [![Open Issues](https://img.shields.io/github/issues-raw/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/issues?q=is%3Aopen+is%3Aissue) [![Closed Issues](https://img.shields.io/github/issues-closed-raw/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/issues?q=is%3Aissue+is%3Aclosed)  [![Travis CI](https://api.travis-ci.org/davidramiro/Marlin-Ai3M-2.0.x.svg?branch=bugfix-2.0.x)](https://travis-ci.org/davidramiro/Marlin-Ai3M-2.0.x)  [![License](https://img.shields.io/github/license/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/blob/master/LICENSE)
